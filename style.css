@@ -1,0 +1,15 @@
+#gallery-container {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#main-image {
+  width: 100%;
+}
+
+.thumbnail {
+  width: 20%;
+  margin: 10px;
+  cursor: pointer;
+}
